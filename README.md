@@ -1,6 +1,7 @@
 # weather-website
 
 Instalation:
+
 #1. Git Clone Git repo to your device.
 
 #2- Run "Npm Install" to install packages.
