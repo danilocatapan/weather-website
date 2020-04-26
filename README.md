@@ -2,10 +2,10 @@
 
 Instalation:
 
-#1. Git Clone Git repo to your device.
+- Git Clone Git repo to your device.
 
-#2- Run "Npm Install" to install packages.
+- Run "Npm Install" to install packages.
 
-#3. Run "Npm Start" to run project.
+- Run "Npm Start" to run project.
 
-#4. Open "http://localhost:3000/" in web browser.
+- Open "http://localhost:3000/" in web browser.
